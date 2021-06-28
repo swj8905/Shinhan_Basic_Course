@@ -1,0 +1,3 @@
+([('21_환율계산기',
+   '/Users/admin/PycharmProjects/Online_Basic_Course/dist/21_환율계산기',
+   'EXECUTABLE')],)
